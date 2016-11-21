@@ -1,0 +1,8 @@
+.idea
+vendor/
+composer.phar
+composer.lock
+core/Templates/cache/*
+/nbproject/*
+/web/userfiles/*
+"vendore" 
